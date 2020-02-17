@@ -10,6 +10,8 @@ namespace Programmeren_3
         protected int width { get; set; }
         protected string name { get; set; }
 
+        
+
         public Ship()
         {
             this.length = 0;

@@ -2,7 +2,7 @@
 
 namespace Programmeren_3
 {
-    class Program
+    class ShipProject
     {
         static void Main(String[] args)
         {
